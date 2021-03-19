@@ -1,0 +1,22 @@
+{
+  "name": "react-native-wasabi",
+  "version": "0.1.0",
+  "repository": "git@github.com:varwasabi/react-native-wasabi.git",
+  "author": "Josh Kelly <josh@monster.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.13.10",
+    "@babel/preset-env": "7.13.10",
+    "@babel/runtime": "7.13.10",
+    "eslint": "7.22.0",
+    "prettier": "2.2.1",
+    "typescript": "4.2.3"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
